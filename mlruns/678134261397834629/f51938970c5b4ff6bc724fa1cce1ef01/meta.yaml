@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/678134261397834629/f51938970c5b4ff6bc724fa1cce1ef01/artifacts
+end_time: 1784807056656
+entry_point_name: ''
+experiment_id: '678134261397834629'
+lifecycle_stage: active
+run_id: f51938970c5b4ff6bc724fa1cce1ef01
+run_name: Run_8
+run_uuid: f51938970c5b4ff6bc724fa1cce1ef01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784807049398
+status: 3
+tags: []
+user_id: vaida
