@@ -1,4 +1,9 @@
 [core]
-    remote = local_storage
+    remote = origin
 ['remote "local_storage"']
     url = ../dvc_storage
+['remote "origin"']
+    url = https://dagshub.com/vaidarsi/MLOPS_PROJECT.dvc
+    auth = basic
+    user = vaidarsi
+    password = d297149d179a4015b446c442b05d4d0e52672495
